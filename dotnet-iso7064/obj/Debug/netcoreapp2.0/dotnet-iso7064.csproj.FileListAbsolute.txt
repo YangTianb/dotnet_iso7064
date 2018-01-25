@@ -1,0 +1,11 @@
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\bin\Debug\netcoreapp2.0\dotnet-iso7064.deps.json
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\bin\Debug\netcoreapp2.0\dotnet-iso7064.runtimeconfig.json
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\bin\Debug\netcoreapp2.0\dotnet-iso7064.runtimeconfig.dev.json
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\bin\Debug\netcoreapp2.0\dotnet-iso7064.dll
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\bin\Debug\netcoreapp2.0\dotnet-iso7064.pdb
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\obj\Debug\netcoreapp2.0\dotnet-iso7064.csprojResolveAssemblyReference.cache
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\obj\Debug\netcoreapp2.0\dotnet-iso7064.csproj.CoreCompileInputs.cache
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\obj\Debug\netcoreapp2.0\dotnet-iso7064.AssemblyInfoInputs.cache
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\obj\Debug\netcoreapp2.0\dotnet-iso7064.AssemblyInfo.cs
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\obj\Debug\netcoreapp2.0\dotnet-iso7064.dll
+E:\GitHub\dotnet-iso7064\dotnet-iso7064\obj\Debug\netcoreapp2.0\dotnet-iso7064.pdb
